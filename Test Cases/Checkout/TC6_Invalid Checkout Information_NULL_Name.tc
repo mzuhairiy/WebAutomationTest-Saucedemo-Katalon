@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC6_Invalid Checkout Information_NULL_Name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>befbd582-228e-4a4b-a9bd-888bc6e5abc6</testCaseGuid>
+</TestCaseEntity>

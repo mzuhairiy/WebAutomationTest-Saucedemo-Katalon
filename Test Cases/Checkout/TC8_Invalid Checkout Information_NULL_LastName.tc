@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC8_Invalid Checkout Information_NULL_LastName</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8ca4d0fc-08b9-4db8-9599-7bbda20a8bb3</testCaseGuid>
+</TestCaseEntity>

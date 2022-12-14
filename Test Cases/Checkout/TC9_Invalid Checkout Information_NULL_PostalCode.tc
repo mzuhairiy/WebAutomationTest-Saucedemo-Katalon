@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC9_Invalid Checkout Information_NULL_PostalCode</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2e0350bd-67fc-47d1-9f6c-c79ccda43f96</testCaseGuid>
+</TestCaseEntity>

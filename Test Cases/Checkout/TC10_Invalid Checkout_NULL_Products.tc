@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC10_Invalid Checkout_NULL_Products</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>72eaf93c-0d6d-4103-a8e7-96712d3359e8</testCaseGuid>
+</TestCaseEntity>
